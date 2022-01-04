@@ -2,8 +2,6 @@ name: Generate files from the domain list
 
 on:
   push:
-    branches:
-      - master
     paths:
       - domain-list.yml
 
