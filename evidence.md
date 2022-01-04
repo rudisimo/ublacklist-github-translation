@@ -17,3 +17,11 @@
 | `gitmemory.cn` | https://gitmemory.cn/repo/facebook/react | https://github.com/facebook/react |  |
 | `pythonissues.com` | https://pythonissues.com/issues/2256430 | https://github.com/pupil-labs/pupil/issues/920 |  |
 | `reposhub.com` | https://reposhub.com/ruby/database-tools/soundcloud-lhm.html | https://github.com/soundcloud/lhm |  |
+| `farath.com` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
+| `*.configrouter.com` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
+| `*.chegg.com` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
+| `python.engineering` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
+| `ostack.cn` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
+| `forpythons.com` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
+| `coderedirect.com` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
+| `*.studytonight.com` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |

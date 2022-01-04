@@ -13,3 +13,11 @@
 *://gitmemory.cn/*
 *://pythonissues.com/*
 *://reposhub.com/*
+*://farath.com/*
+*://*.configrouter.com/*
+*://*.chegg.com/*
+*://python.engineering/*
+*://ostack.cn/*
+*://forpythons.com/*
+*://coderedirect.com/*
+*://*.studytonight.com/*
