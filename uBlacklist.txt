@@ -21,3 +21,4 @@
 *://forpythons.com/*
 *://coderedirect.com/*
 *://*.studytonight.com/*
+*://stackify.dev/*
