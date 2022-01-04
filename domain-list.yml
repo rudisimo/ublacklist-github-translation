@@ -56,3 +56,37 @@
 - domain: 'reposhub.com'
   evidence: https://reposhub.com/ruby/database-tools/soundcloud-lhm.html
   original: https://github.com/soundcloud/lhm
+
+# HN-sourced clones
+- domain: 'farath.com'
+  evidence: https://news.ycombinator.com/item?id=29795318
+  original: https://news.ycombinator.com/item?id=29794372
+  note:
+- domain: '*.configrouter.com'
+  evidence: https://news.ycombinator.com/item?id=29795318
+  original: https://news.ycombinator.com/item?id=29794372
+  note:
+- domain: '*.chegg.com'
+  evidence: https://news.ycombinator.com/item?id=29795318
+  original: https://news.ycombinator.com/item?id=29794372
+  note:
+- domain: 'python.engineering'
+  evidence: https://news.ycombinator.com/item?id=29795318
+  original: https://news.ycombinator.com/item?id=29794372
+  note:
+- domain: 'ostack.cn'
+  evidence: https://news.ycombinator.com/item?id=29795318
+  original: https://news.ycombinator.com/item?id=29794372
+  note:
+- domain: 'forpythons.com'
+  evidence: https://news.ycombinator.com/item?id=29795318
+  original: https://news.ycombinator.com/item?id=29794372
+  note:
+- domain: 'coderedirect.com'
+  evidence: https://news.ycombinator.com/item?id=29795318
+  original: https://news.ycombinator.com/item?id=29794372
+  note:
+- domain: '*.studytonight.com'
+  evidence: https://news.ycombinator.com/item?id=29795318
+  original: https://news.ycombinator.com/item?id=29794372
+  note:
