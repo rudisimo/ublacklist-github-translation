@@ -21,8 +21,6 @@
 | `*.configrouter.com` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
 | `*.chegg.com` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
 | `python.engineering` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
-| `ostack.cn` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
 | `forpythons.com` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
-| `coderedirect.com` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
 | `*.studytonight.com` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |
 | `stackify.dev` | https://news.ycombinator.com/item?id=29795318 | https://news.ycombinator.com/item?id=29794372 |  |

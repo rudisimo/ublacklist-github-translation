@@ -17,8 +17,6 @@
 *://*.configrouter.com/*
 *://*.chegg.com/*
 *://python.engineering/*
-*://ostack.cn/*
 *://forpythons.com/*
-*://coderedirect.com/*
 *://*.studytonight.com/*
 *://stackify.dev/*
